@@ -46,4 +46,14 @@ module.exports = {
     },
     plugins: [],
   }
-  
+  module.exports = {
+    theme: {
+      extend: {
+        fontFamily: {
+          baloo: ['"Baloo 2"', 'cursive'],
+          quicksand: ['Quicksand', 'sans-serif'],
+        },
+      },
+    },
+    plugins: [],
+  }

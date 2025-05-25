@@ -1,0 +1,8 @@
+# .gitignore
+*.psd
+*.mp4
+*.mov
+*.ttf
+*.woff
+.DS_Store
+node_modules/
